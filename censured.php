@@ -1,6 +1,5 @@
 <?php
-$message = "machebelcastello";
-// $message = $_GET=["message"];
+$message = $_POST["message"];
 ?>
 
 <!DOCTYPE html>
